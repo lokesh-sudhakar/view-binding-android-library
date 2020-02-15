@@ -1,0 +1,2 @@
+include ':app', ':binder', ':binder-annotations', ':binder-compiler', ':view-binder', ':viewbinder'
+rootProject.name='ViewBindingApp'
